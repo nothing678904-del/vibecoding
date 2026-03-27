@@ -38,5 +38,6 @@
     "postcss": "latest",
     "tailwindcss": "latest",
     "typescript": "latest"
-  }
+  },
+  "engines": {"node": "18.x"}
 }
